@@ -1,4 +1,4 @@
-# from collections import Counter  import counter
+from collections import Counter 
 
 n = int(input())
 shoes = list(map(int, input().split()))
